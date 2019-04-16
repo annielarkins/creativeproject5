@@ -21,7 +21,7 @@
     </nav>
     <router-view/>
                 <div class="footer">
-        <a href="https://github.com/BYU-CS-260-Winter-2019/lab-5-annielarkins">UPDATE THIS LINK</a>
+        <a href="https://github.com/annielarkins/creativeproject5">UPDATE THIS LINK</a>
     </div>
   </div>
 </template>
