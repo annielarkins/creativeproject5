@@ -21,7 +21,7 @@
     </nav>
     <router-view/>
                 <div class="footer">
-        <a href="https://github.com/annielarkins/creativeproject5">UPDATE THIS LINK</a>
+        <a href="https://github.com/annielarkins/creativeproject5">Github Repository</a>
     </div>
   </div>
 </template>
